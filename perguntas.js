@@ -1,59 +1,59 @@
 criaCartao(
-    'Título 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'esportes',
+    'no futebol,quem era conhecido como o bruxo',
+    'Ronaldinho gaucho'
 )
 
 criaCartao(
-    'Título 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'biblico',
+    'quem foi o homem mais forte da biblia',
+    'Sansao'
 )
 
 criaCartao(
-    'Título 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'ciencia',
+    'O que é a teoria do Big Bang',
+    'A teoria do Big Bang propõe que o universo começou como um ponto extremamente quente e denso há cerca de 13,8 bilhões de anos e, desde então, tem se expandido. Essa teoria explica a origem do cosmos e a distribuição das galáxias.'
 )
 
 criaCartao(
-    'Título 4',
-    'Pergunta 4',
-    'Resposta 4'
+    'geografia',
+    'onde se localiza o japao',
+    'comtinente asiatico'
 )
 
 criaCartao(
-    'Título 5',
-    'Pergunta 5',
-    'Resposta 5'
+    'natureza',
+    'qual o maior animal da terra',
+    'baleia-azul'
 )
 
 criaCartao(
-    'Título 6',
-    'Pergunta 6',
-    'Resposta 6'
+    'geografia',
+    'O que é a capital do Brasil',
+    'Brasília'
 )
 
 criaCartao(
-    'Título 7',
-    'Pergunta 7',
-    'Resposta 7'
+    'historia',
+    'Quem foi o primeiro presidente do Brasil',
+    'Marechal Deodoro da Fonseca'
 )
 
 criaCartao(
-    'Título 8',
-    'Pergunta 8',
-    'Resposta 8'
+    'geografia',
+    'Qual é a maior floresta tropical do mundo',
+    'Amazônia'
 )
 
 criaCartao(
-    'Título 9',
-    'Pergunta 9',
-    'Resposta 9'
+    'literatura',
+    'Quem escreveu "Dom Casmurro"',
+    'Machado de Assis'
 )
 
 criaCartao(
-    'Título 10',
-    'Pergunta 10',
-    'Resposta 10'
+    'geografia',
+    'Qual é o maior país da América do Sul',
+    'Brasil'
 )
